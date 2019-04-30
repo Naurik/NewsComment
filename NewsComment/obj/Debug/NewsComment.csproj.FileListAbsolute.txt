@@ -1,0 +1,12 @@
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\NewsComment.exe.config
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\NewsComment.exe
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\NewsComment.pdb
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\Dapper.dll
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\dbup-core.dll
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\dbup-sqlserver.dll
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\bin\Debug\Dapper.xml
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\obj\Debug\NewsComment.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\obj\Debug\NewsComment.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\obj\Debug\NewsComment.csproj.CopyComplete
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\obj\Debug\NewsComment.exe
+c:\users\машимовн.corp\source\repos\NewsComment\NewsComment\obj\Debug\NewsComment.pdb
